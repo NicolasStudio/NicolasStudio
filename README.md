@@ -1,7 +1,7 @@
 Olá, bom dia, boa tarde e boa noite. Muito prazer me chamo Nicolas. 👋
 
 - 👨🏻‍🎓 Faço faculdade em Análise e desenvolvimento de sistemas.
-- 🌱 Estou aperfeiçoando minhas habilidades em desenvolvimento web
+- 🌱 Estou aperfeiçoando minhas habilidades de desenvolvimento web. 
 
 ##
 
