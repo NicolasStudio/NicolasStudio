@@ -1,6 +1,6 @@
 Olá, bom dia, boa tarde e boa noite. Muito prazer me chamo Nicolas. 👋
 
-- 👨🏻‍🎓 Faço faculdade em Análise e desenvolvimento de sistemas. (5/5) Semestre.
+- 👨🏻‍🎓 Analista e desenvolvedor de sistemas.
 - 📚 Formação Front-end - HTML, CSS, JavaScript, React e TypeScript com foco em React, pela Udemy (Cursando).
 - 📚 Curso de PHP do Zero a Maestria, pela Udemy (Cursando).
 - 📚 Curso de Html e Css básico (Fundação Bradesco).
