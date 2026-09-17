@@ -40,7 +40,7 @@ Atualmente, atuo como **Analista de Testes/QA** em sistemas críticos para a ár
 *   **Teste de Software Manual: Do Planejamento à Execução** - Udemy
 *   **Certificação ITSM 4 Fundamentos** - Udemy
 *   **Formação Front-end (React e TypeScript)** - Udemy (Cursando)
-*   **Análise e Desenvolvimento de Sistemas** - (Sua Faculdade, se desejar adicionar)
+*   **Análise e Desenvolvimento de Sistemas** - FAM  (Faculdade das Américas)
 
 ---
 
